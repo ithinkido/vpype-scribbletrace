@@ -5,8 +5,8 @@
 
 ## Examples
 
-_to be completed_
-
+Pineapple plotted using the Scribble Trace Lines algorithm
+<img src="https://raw.githubusercontent.com/ithinkido/vpype-scribbletrace/read_me-update/Example%20Images/Pineapple_ST_line.jpg" width=300>
 
 ## Installation
 
